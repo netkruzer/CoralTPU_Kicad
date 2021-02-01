@@ -1,2 +1,2 @@
 # Coral TPU Accelerator Module for Kicad
-KiCAD footprint and symbol for Google's Coral TPU
+KiCAD 5.1.x footprint and symbol for Google's Coral TPU
